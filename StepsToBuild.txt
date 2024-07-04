@@ -1,0 +1,10 @@
+Creating a deep learning network in Python involves several steps and can get quite complex depending on the architecture and the task. Here, I'll guide you through writing a program for a Convolutional Neural Network (CNN) to classify images from the CIFAR-10 dataset. We'll use TensorFlow and Keras to build this network.
+
+Steps:
+Import Libraries
+Load and Preprocess Data
+Build the CNN Model
+Compile the Model
+Train the Model
+Evaluate the Model
+Make Predictions
